@@ -5,6 +5,7 @@ public class Stringdemo {
 	String s1 = "How are you";
 	String s2 ="How";
 	 	System.out.println("how are you priyanka ");
+	 	System.out.println("hllo");
 
 }
 }
